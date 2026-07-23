@@ -7,7 +7,7 @@ st.set_page_config(
     layout="wide"
 )
 
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 
 
